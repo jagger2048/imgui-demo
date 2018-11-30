@@ -37,6 +37,9 @@
     <ClInclude Include="imgui_dx9_win32.h">
       <Filter>源文件</Filter>
     </ClInclude>
+    <ClInclude Include="filter_design.h">
+      <Filter>源文件</Filter>
+    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="GUI_win32_directx9.cpp">
@@ -59,6 +62,9 @@
     </ClCompile>
     <ClCompile Include="imgui\imgui_widgets.cpp">
       <Filter>imgui</Filter>
+    </ClCompile>
+    <ClCompile Include="filter_design.cpp">
+      <Filter>源文件</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
